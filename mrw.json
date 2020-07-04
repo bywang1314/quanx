@@ -28,7 +28,7 @@
       "author": "@zZPiglet",
       "repo": "https://github.com/zZPiglet/Task/blob/master/elem/elemCheckIn.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
-    }
+    },
     {
       "id": "chavyleung.rrtv",
       "name": "人人视频",
@@ -36,6 +36,6 @@
       "author": "@chavyleung",
       "repo": "https://github.com/chavyleung/scripts/blob/master/rrtv/rrtv.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png", "https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png"]
-    },
+    }
   ]
 }
