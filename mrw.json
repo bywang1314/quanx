@@ -1,0 +1,41 @@
+{
+  "id": "chavyleung.app.sub",
+  "name": "白嫖怪的应用订阅",
+  "author": "白嫖怪",
+  "icon": "https://avatars3.githubusercontent.com/u/29748519?s=460&u=392a19e85465abbcb1791c9b8b32184a16e6795e&v=4",
+  "repo": "https://github.com/chavyleung/scripts",
+  "apps": [
+    {
+      "id": "B站漫画",
+      "name": "B站漫画",
+      "keys": ["CookieBM"],
+      "author": "@NobyDa",
+      "repo": "https://github.com/NobyDa/Script/blob/master/Bilibili-DailyBonus/Manga.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/manga.png", "https://raw.githubusercontent.com/Orz-3/task/master/manga.png"]
+    },
+    {
+      "id": "饿了么",
+      "name": "饿了么",
+      "keys": ["cookie_elem"],
+      "author": "@nzw9314",
+      "repo": "https://github.com/nzw9314/QuantumultX/blob/master/Task/elemCheckIn.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
+    },
+    {
+      "id": "饿了么-打卡",
+      "name": "饿了么-打卡",
+      "keys": ["cookie_elem"],
+      "author": "@zZPiglet",
+      "repo": "https://github.com/zZPiglet/Task/blob/master/elem/elemCheckIn.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
+    }
+    {
+      "id": "chavyleung.rrtv",
+      "name": "人人视频",
+      "keys": ["chavy_cookie_rrtv"],
+      "author": "@chavyleung",
+      "repo": "https://github.com/chavyleung/scripts/blob/master/rrtv/rrtv.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png", "https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png"]
+    },
+  ]
+}
