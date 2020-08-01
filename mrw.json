@@ -36,6 +36,14 @@
       "author": "@chavyleung",
       "repo": "https://github.com/chavyleung/scripts/blob/master/rrtv/rrtv.js",
       "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/rrtv.png", "https://raw.githubusercontent.com/Orz-3/task/master/rrtv.png"]
+    },
+    {
+      "id": "携程",
+      "name": "携程旅行",
+      "keys": ["cookie_ctrip"],
+      "author": "@nzw9314",
+      "repo": "https://github.com/nzw9314/QuantumultX/blob/master/Task/ctrip.js",
+      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/ctrip.png", "https://raw.githubusercontent.com/Orz-3/task/master/ctrip.png"]
     }
   ]
 }
