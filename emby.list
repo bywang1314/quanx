@@ -1,17 +1,17 @@
 # > 流媒体emby-mdss服务器
-DOMAIN-SUFFIX,emby.mdss.cloud
+DOMAIN,emby.mdss.cloud
 
 # > 流媒体emby-nexitally服务器
-DOMAIN-SUFFIX,emby.nexitally.com
+DOMAIN,emby.nexitally.com
 
 # > 流媒体emby-ytoo服务器
-DOMAIN-SUFFIX,emby.ytoo.li
+DOMAIN,emby.ytoo.li
 
 # > 流媒体emby体验服 
-DOMAIN-SUFFIX,movie.xeton.dev
-DOMAIN-SUFFIX,plus.xeton.dev
-DOMAIN-SUFFIX,emby.xeton.dev    
-DOMAIN-SUFFIX,kodi.xeton.dev    
-
+DOMAIN,movie.xeton.dev
+DOMAIN,plus.xeton.dev
+DOMAIN,emby.xeton.dev    
+DOMAIN,kodi.xeton.dev    
+DOMAIN,emby-best.xeton.dev 
 
 
