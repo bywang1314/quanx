@@ -7,6 +7,9 @@ DOMAIN,emby.nexitally.com
 # > 流媒体emby-ytoo服务器
 DOMAIN,emby.ytoo.li
 
+# > 流媒体emby-nyancat服务器
+DOMAIN,emby.nyancat.net
+
 # > 流媒体emby体验服 
 DOMAIN,movie.xeton.dev
 DOMAIN,plus.xeton.dev
