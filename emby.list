@@ -11,8 +11,5 @@ DOMAIN,emby.ytoo.li
 DOMAIN,emby.nyancat.net
 
 # > 流媒体emby体验服
-DOMAIN,movie.xeton.dev
-DOMAIN,plus.xeton.dev
-DOMAIN,emby.xeton.dev
-DOMAIN,kodi.xeton.dev
-DOMAIN,jellyfin.xeton.dev
+DOMAIN-SUFFIX,xeton.dev
+
