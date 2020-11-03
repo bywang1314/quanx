@@ -6,22 +6,6 @@
   "repo": "https://github.com/bywang1314/quanx",
   "apps": [
     {
-      "id": "饿了么",
-      "name": "饿了么",
-      "keys": ["cookie_elem"],
-      "author": "@nzw9314",
-      "repo": "https://github.com/nzw9314/QuantumultX/blob/master/Task/elemCheckIn.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
-    },
-    {
-      "id": "饿了么-打卡",
-      "name": "饿了么-打卡",
-      "keys": ["cookie_elem"],
-      "author": "@zZPiglet",
-      "repo": "https://github.com/zZPiglet/Task/blob/master/elem/elemCheckIn.js",
-      "icons": ["https://raw.githubusercontent.com/Orz-3/mini/master/elem.png", "https://raw.githubusercontent.com/Orz-3/task/master/elem.png"]
-    },
-    {
       "id": "携程",
       "name": "携程旅行",
       "keys": ["cookie_ctrip"],
