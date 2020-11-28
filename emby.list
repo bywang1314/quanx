@@ -10,6 +10,10 @@ DOMAIN,emby.ytoo.li
 # > 流媒体emby-nyancat服务器
 DOMAIN,emby.nyancat.net
 
+# > 流媒体emby-prpr服务器
+DOMAIN,emby.prprcloud.com
+
+
 # > 流媒体emby体验服
 DOMAIN,emby.xeton.dev
 DOMAIN,jellyfin.xeton.dev
