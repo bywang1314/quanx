@@ -13,6 +13,9 @@ DOMAIN,emby.nyancat.net
 # > 流媒体emby-prpr服务器
 DOMAIN,emby.prprcloud.com
 
+# > 流媒体emby-FlowerCloud服务器
+DOMAIN,emby.flowercloud.yt
+
 
 # > 流媒体emby体验服
 DOMAIN,emby.xeton.dev
