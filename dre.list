@@ -1,6 +1,8 @@
 # > 规则修正
+# DOMAIN          域名判断
+# DOMAIN-SUFFIX   域名后缀
+# DOMAIN-KEYWORD  域名关键词
+
 
 DOMAIN,surgio2.vercel.app
-DOMAIN,losadhwselfff2332dasd.xyz
-DOMAIN,ntt-co-jp.club
-DOMAIN,btsow.digital
+DOMAIN-KEYWORD,zerotier
